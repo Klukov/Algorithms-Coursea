@@ -1,3 +1,4 @@
 Specification of the problem:</br>
 http://coursera.cs.princeton.edu/algs4/assignments/boggle.html
-</br>
+</br></br>
+BoggleBoard and BoggleGame classes are written by course lecturers.
